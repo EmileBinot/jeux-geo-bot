@@ -76,7 +76,6 @@ i=0
 print(cXlist[i])
 print(cYlist[i])
 
-
 plt.imshow(thresh)
 plt.show()
 
